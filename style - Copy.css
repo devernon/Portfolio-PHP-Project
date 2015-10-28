@@ -1,0 +1,98 @@
+{margin:0; padding:0;}
+html, body {min-height: 100%; height: 100%; background-color: #000;}
+#container {width: 960px; background-color: #FFF; margin:0 auto;}
+#header {height: 100px;}
+.logoholder {float: left; height:100px; width:160px; display:block;}
+.logoholder img {width: 150px; height: 90px; margin-top: 5px; margin-left: 5px;}
+.headertext {float: left; height: 100px; width:800px; display:block;}
+.title {font-size: 48px; display:block; margin-left: 15px; line-height: 45px;}
+.ptitle {float: left; font-size: 24px; display:block; line-height: 45px; margin-left: 15px;}
+.date_time {float: right; font-size: 16px; display:block; line-height: 45px; margin-right: 15px;}
+#content {padding: 10px 0; width: 790px; float: left; margin-left: 5px; margin-right: 5px;}
+#footer {padding: 10px 0; position: relative; margin: 5px; clear: both;}
+#navigation {float: left; width: 160px; padding-bottom: 10px;}
+#navigation ul {margin: 0px; padding: 0px;}
+#navigation li {list-style: none; color: #FFF; border-width: 1px;}
+#navigation p {
+	color: #FFF;
+	margin: 0px;
+	padding: 0px;
+	border-width: 1px;
+	display: block;
+	height: 25px;
+	line-height: 25px;
+	text-indent: 10px;
+	width: 100%;
+}
+#navigation a {
+	color: #FFF;
+	cursor: pointer;
+	display: block;
+	height: 25px;
+	line-height: 25px;
+	text-indent: 10px;
+	text-decoration: none;
+	width: 100%;
+}
+.clr {clear: both; height: 0; font-size: 1px; line-height: 0px;}
+.menu-a li {
+	background: #026783;
+	border-botom: #005B68 solid;
+	border-top: #005B68 solid;
+}
+.menu-a a:hover, .menu-a a:active, .menu-a a:focus {
+	background: #005B68;	
+}
+.menu-a p {
+	background: #005B68;
+}
+.menu-b li {
+	background: #D55401;
+	border-botom: #AA4706 solid;
+	border-top: #AA4706 solid;
+}
+.menu-b a:hover, .menu-b a:active, .menu-b a:focus {
+	background: #AA4706;	
+}
+.menu-b p {
+	background: #AA4706;
+}
+.menu-c li {
+	background: #668923;
+	border-botom: #5D7321 solid;
+	border-top: #5D7321 solid;
+}
+.menu-c a:hover, .menu-c a:active, .menu-c a:focus {
+	background: #5D7321;	
+}
+.menu-c p {
+	background: #5D7321;
+}
+.menu-d li {
+	background: #E2E2E2;
+	border-botom: #DC2F5D solid;
+	border-top: #DC2F5D solid;
+}
+.menu-d a:hover, .menu-d a:active, .menu-d a:focus {
+	background: #DC2F5D;	
+}
+.menu-d p {
+	background: #DC2F5D;
+}
+.menu-e li {
+	background: #5A5A5A;
+	border-botom: #80CA67 solid;
+	border-top: #80CA67 solid;
+}
+.menu-e a:hover, .menu-e a:active, .menu-e a:focus {
+	background: #80CA67;	
+}
+.menu-e p {
+	background: #80CA67;
+}
+.lay4col-lbl {float: left; display: block; height: 25px; line-height: 25px; text-align: right; width: 113px; margin-right: 5px;}
+.lay4col-fld {float: left; display: block; height: 25px; line-height: 25px; width: 277px;}
+.lay2col-lbl {float: left; display: block; height: 25px; line-height: 25px; text-align: right; width: 193px; margin-right: 5px;}
+.lay2col-fld {float: left; display: block; height: 25px; line-height: 25px; width: 592px;}
+.lay3col-lbl {float: left; display: block; height: 25px; line-height: 25px; text-align: right; width: 153px; margin-right: 5px;}
+.lay3col-fld {float: left; display: block; height: 25px; line-height: 25px; width: 316px;}
